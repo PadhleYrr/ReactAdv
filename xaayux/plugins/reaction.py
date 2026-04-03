@@ -8,7 +8,7 @@ import logging
 from telethon import events, functions, types
 from xaayux.config import EMOJIS, REACTION_DELAY
 from xaayux.core import db
-from xaayux.core.session_manager import get_pool, increment_session_fail_safe
+from xaayux.core.session_manager import get_pool
 
 log = logging.getLogger(__name__)
 
