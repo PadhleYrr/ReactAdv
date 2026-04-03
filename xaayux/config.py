@@ -7,7 +7,7 @@ API_ID     = int(os.getenv("API_ID",   "7630000"))
 API_HASH   = os.getenv("API_HASH",     "f70361ddf4ec755395b4b6f1ab2d4fae")
 
 # ── MongoDB ───────────────────────────────────────────────────
-MONGO_URI  = os.getenv("MONGO_URI", "mongodb+srv://xaayux:xaayux@cluster0.mojpz.mongodb.net/reactionnet?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_URI  = os.getenv("MONGO_URI", "mongodb+srv://xaayux:909090@cluster0.mojpz.mongodb.net/reactionnet?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME    = "reactionnet"
 
 # ── Behaviour ─────────────────────────────────────────────────
